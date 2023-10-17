@@ -7,7 +7,7 @@ notifications:
 staging:
   profile: ~
   whoami: asf-staging
-  subdir: output/log4j-audit
+  subdir: content/log4j-audit
 
 publish:
   profile: ~
